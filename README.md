@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there!
 
-<!--
-**ashermancinelli/ashermancinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently:
 
-Here are some ideas to get you started:
+- Working at [PNNL](https://www.pnnl.gov/) on power grid robustness and ML/AI infrastructure
+- Developing LLVM's Fortran compiler Flang
+- Interested in:
+  - Compilers
+  - Modern C++ (17, 20, 23)
+  - Fortran
+  - HPC/Scientific Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me here:
+
+- [LinkedIn](https://www.linkedin.com/in/asher-mancinelli-bb4a56144/)
+- [Personal Email](mailto:ashermancinelli@gmail.com)
+- [Personal Email](mailto:asher.mancinelli@pnnl.gov)
