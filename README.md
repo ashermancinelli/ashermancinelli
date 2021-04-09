@@ -16,4 +16,4 @@ I write blog posts [here](https://ashermancinelli.github.io/).
 
 - [LinkedIn](https://www.linkedin.com/in/asher-mancinelli-bb4a56144/)
 - [Personal Email](mailto:ashermancinelli@gmail.com)
-- [Personal Email](mailto:asher.mancinelli@pnnl.gov)
+- [Professional Email](mailto:asher.mancinelli@pnnl.gov)
