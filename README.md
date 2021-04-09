@@ -3,6 +3,7 @@
 I'm currently:
 
 - Working at [PNNL](https://www.pnnl.gov/) on power grid robustness and ML/AI infrastructure
+- Packaging and deployment of ExaScale applications
 - Developing LLVM's Fortran compiler Flang
 - Interested in:
   - Compilers
