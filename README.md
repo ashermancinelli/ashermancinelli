@@ -10,6 +10,8 @@ I'm currently:
   - Fortran
   - HPC/Scientific Computing
 
+I write blog posts [here](https://ashermancinelli.github.io/).
+
 ### Connect with me here:
 
 - [LinkedIn](https://www.linkedin.com/in/asher-mancinelli-bb4a56144/)
