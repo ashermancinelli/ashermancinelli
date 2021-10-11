@@ -10,8 +10,9 @@ I'm currently:
   - Modern C++ (17, 20, 23)
   - Fortran
   - HPC/Scientific Computing
+  - APL and Array Languages
 
-I write blog posts [here](https://ashermancinelli.github.io/).
+I make [YouTube videos here](https://www.youtube.com/channel/UCZ5sL4E662VP1ZwC4h85ttQ) and I write blog posts [here](https://ashermancinelli.github.io/).
 
 ### Connect with me here:
 
