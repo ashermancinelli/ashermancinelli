@@ -1,13 +1,15 @@
 ### Hello there!
 
+I care about making tech welcoming, accessible, and fun.
+
 I'm currently:
 
-- Working at [PNNL](https://www.pnnl.gov/) on power grid robustness, modeling climate change processes, and ML/AI infrastructure
+- Working at [PNNL](https://www.pnnl.gov/) on power grid robustness, modeling climate change, and ML/AI infrastructure
 - Packaging and deployment of ExaScale applications
 - Developing LLVM's Fortran compiler Flang
 - Interested in:
   - Compilers
-  - Modern C++ (17, 20)
+  - Modern C++ (17, 20, ...)
   - Fortran
   - HPC/Scientific Computing
   - APL and Array Languages
