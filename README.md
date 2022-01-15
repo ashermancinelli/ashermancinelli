@@ -21,3 +21,5 @@ I'm currently:
 - [LinkedIn](https://www.linkedin.com/in/asher-mancinelli-bb4a56144/)
 - [Personal Email](mailto:ashermancinelli@gmail.com)
 - [Professional Email](mailto:asher.mancinelli@pnnl.gov)
+
+I also like Perl. Please no throwing tomatoes.
