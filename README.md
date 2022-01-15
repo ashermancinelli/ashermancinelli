@@ -16,8 +16,8 @@ I'm currently:
 
 ### Connect with me here:
 
-- [YouTube Channel](https://www.youtube.com/channel/UCZ5sL4E662VP1ZwC4h85ttQ)
 - [Blog/Personal Website](https://ashermancinelli.github.io)
+- [YouTube Channel](https://www.youtube.com/channel/UCZ5sL4E662VP1ZwC4h85ttQ)
 - [LinkedIn](https://www.linkedin.com/in/asher-mancinelli-bb4a56144/)
 - [Personal Email](mailto:ashermancinelli@gmail.com)
 - [Professional Email](mailto:asher.mancinelli@pnnl.gov)
