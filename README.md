@@ -26,7 +26,8 @@ I also like Perl. Please no throwing tomatoes.
 
 <details>
 <summary>PGP Public Key</summary>
-<p> 
+<p>
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
