@@ -1,9 +1,9 @@
-<!--
-### Links
 
-- [Blog/Personal Website](https://ashermancinelli.github.io)
+- [Blog](https://ashermancinelli.github.io)
 - [YouTube Channel](https://www.youtube.com/channel/UCZ5sL4E662VP1ZwC4h85ttQ)
 - [LinkedIn](https://www.linkedin.com/in/asher-mancinelli-bb4a56144/)
+
+<!--
 - [Personal Email](mailto:ashermancinelli@gmail.com)
 
 <details>
