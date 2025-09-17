@@ -1,5 +1,6 @@
 
 - [Blog](https://ashermancinelli.github.io)
+- [Goodreads](https://www.goodreads.com/user/show/120546466?ref=nav_profile_l)
 - [YouTube Channel](https://www.youtube.com/channel/UCZ5sL4E662VP1ZwC4h85ttQ)
 - [LinkedIn](https://www.linkedin.com/in/asher-mancinelli-bb4a56144/)
 
